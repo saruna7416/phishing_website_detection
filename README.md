@@ -27,7 +27,7 @@ from online fraud.
 
 ## Dataset
 The dataset contains phishing and legitimate website records.
-Features include URL characteristics, domain information, and webpage attributes used to train machine learning models.
+Features include URL characteristics, domain information, and webpage attributes used to train machine learning models. <br>
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/a0ded286-dc49-4f20-a599-165bcf8e5cd6" />
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/909e19d7-5bcc-4e49-95ae-6a602d2ec296" />
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/14847466-123a-4518-8135-1d1954b92027" /> <br>
@@ -37,7 +37,7 @@ The machine learning models were trained and evaluated to detect phishing websit
 Random Forest achieved the best performance with the lowest error rate compared to other algorithms.
 #### prediction form
 <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/ec9b626b-2320-418a-9e7d-bb47abf8cd37" /> 
-<br>
+<br><br>
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/fcaf6e8f-3a80-4726-a017-6c1f0b48efa8" /><img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/983aed08-3db4-4f47-b407-05dd4b8f34af" />
 
 ## Technologies Used
